@@ -1,2 +1,2 @@
 # EPMProlite
-Enterprise Project Management Tools and Documents
+Enterprise Project Management Tool and Document
